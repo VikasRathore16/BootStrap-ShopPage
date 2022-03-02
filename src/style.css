@@ -1,0 +1,37 @@
+.container-fluid{
+  
+    padding: 0;
+}
+.carousel .carousel-indicators li {
+    height: 10px;
+    width: 10px;
+    border-radius: 100%;
+  }
+
+  .article-1{
+      background-image: url("imgs/b1.jpg");
+    
+     
+  }
+
+  .article-1  .btn{
+    background-color: red;
+    color: white;
+    border: none;
+    font-weight: bold;
+  }
+
+  .article-2{
+    background-image: url("imgs/b2.jpg");
+   
+}
+
+.article-2  .btn{
+  background-color: red;
+  color: white;
+  border: none;
+  font-weight: bold;
+}
+.newsletter{
+    background: url("imgs/n1.jpg");
+}
